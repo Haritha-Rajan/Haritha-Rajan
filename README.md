@@ -1,6 +1,6 @@
 # Hi there, I'm Haritha 👋
 
-![Haritha's Image](https://github.com/haritha981.png)
+![Haritha's Image](https://github.com/Haritha-Rajan.png)
 
 ## About Me
 
@@ -20,7 +20,7 @@ I'm a passionate **Software Developer** from **Kerala**, with a love for **codin
 
 ## 📈 GitHub Stats
 
-![Haritha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=haritha981&show_icons=true&count_private=true&hide=prs&theme=radical)
+![Haritha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Haritha-Rajan&show_icons=true&count_private=true&hide=prs&theme=radical)
 
 ---
 
