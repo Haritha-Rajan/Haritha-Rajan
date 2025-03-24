@@ -1,27 +1,44 @@
-# Hi there, I'm Haritha 👋
+# 🌟 Hi there, I'm Haritha 👋
 
 ![Haritha's Image](https://github.com/Haritha-Rajan.png)
 
-## About Me
+## About Me 🚀
 
-I'm a passionate **Software Developer** from **Kerala**, with a love for **coding** and solving real-world problems through technology. Currently, I work at **Prudent Technologies** as a Software Developer. I thrive on learning new technologies, exploring innovative solutions, and contributing to meaningful projects.
+I'm a passionate **Software Developer** from **Kerala**, driven by the power of **technology** and the joy of **coding**. With a strong focus on building innovative solutions and solving real-world challenges, I currently work at **Prudent Technologies** as a Software Developer. 
+
+I thrive on learning new technologies, experimenting with modern frameworks, and contributing to projects that make a meaningful impact.
+
+---
 
 ## 🔧 Technologies & Tools
 
-- **Languages**: JavaScript, Python
-- **Frameworks**: Node.js, Express.js
-- **Databases**: MySQL
-- **Tools**: Git, Visual Studio Code
+### 💻 **Languages**
+- JavaScript
+- Python
 
+### ⚙️ **Frameworks**
+- Node.js
+- Express.js
 
-## 📫 How to reach me
+### 🗄️ **Databases**
+- MySQL
 
-- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/haritha-rajan)
+### 🛠️ **Tools**
+- Git
+- Visual Studio Code
 
-## 📈 GitHub Stats
+---
+
+## 📬 How to Reach Me
+
+- **LinkedIn**: [Haritha Rajan](https://www.linkedin.com/in/haritha-rajan)
+
+---
+
+## 📊 GitHub Stats
 
 ![Haritha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Haritha-Rajan&show_icons=true&count_private=true&hide=prs&theme=radical)
 
 ---
 
-Thanks for visiting my profile! 😊
+Thanks for visiting my profile! Let’s connect! 😊
