@@ -1,44 +1,60 @@
-# 🌟 Hi there, I'm Haritha 👋
+# 🌟 **Hello, I'm Haritha** 👋
 
 ![Haritha's Image](https://github.com/Haritha-Rajan.png)
 
-## About Me 🚀
+---
 
-I'm a passionate **Software Developer** from **Kerala**, driven by the power of **technology** and the joy of **coding**. With a strong focus on building innovative solutions and solving real-world challenges, I currently work at **Prudent Technologies** as a Software Developer. 
+## 🚀 About Me
 
-I thrive on learning new technologies, experimenting with modern frameworks, and contributing to projects that make a meaningful impact.
+I’m a **Software Developer** from **Kerala**, passionate about leveraging the power of **technology** to solve real-world problems. Currently, I work at **Prudent Technologies**, where I contribute to building innovative solutions that make a positive impact.
+
+I am a lifelong learner, always exploring new technologies, tackling challenging problems, and growing my skills. I believe in the power of collaboration and thrive when working with a team to build something amazing.
 
 ---
 
-## 🔧 Technologies & Tools
+## 💻 **Technologies & Tools**
 
-### 💻 **Languages**
-- JavaScript
-- Python
+### 🔹 **Languages**  
+- **JavaScript**  
+- **Python**
 
-### ⚙️ **Frameworks**
-- Node.js
-- Express.js
+### 🔹 **Frameworks**  
+- **Node.js**  
+- **Express.js**
 
-### 🗄️ **Databases**
-- MySQL
+### 🔹 **Databases**  
+- **MySQL**
 
-### 🛠️ **Tools**
-- Git
-- Visual Studio Code
+### 🔹 **Tools**  
+- **Git**  
+- **Visual Studio Code**
 
 ---
 
-## 📬 How to Reach Me
+## 📫 **How to Reach Me**
 
 - **LinkedIn**: [Haritha Rajan](https://www.linkedin.com/in/haritha-rajan)
+- **GitHub**: [Haritha-Rajan](https://github.com/Haritha-Rajan)
 
 ---
 
-## 📊 GitHub Stats
+## 📊 **GitHub Stats**
 
 ![Haritha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Haritha-Rajan&show_icons=true&count_private=true&hide=prs&theme=radical)
 
 ---
 
-Thanks for visiting my profile! Let’s connect! 😊
+
+## 🎉 **Fun Facts** 🌱
+
+- I love experimenting with new tech stacks and challenging myself with coding problems!
+- I enjoy experimenting with **new coding languages** and **frameworks**.
+- Outside of coding, I love **traveling**, **photography**, and **reading**.
+
+---
+
+> **"Code is like humor. When you have to explain it, it’s bad."** – Cory House
+
+---
+
+### 🎉 Thanks for visiting my profile! Let’s connect and collaborate! 😊
